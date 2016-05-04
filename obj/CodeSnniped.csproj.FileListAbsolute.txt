@@ -1,0 +1,8 @@
+C:\Documents and Settings\02272453856\Meus documentos\Visual Studio 2005\Projects\CodeSnniped\CodeSnniped\bin\Debug\CodeSnniped.exe
+C:\Documents and Settings\02272453856\Meus documentos\Visual Studio 2005\Projects\CodeSnniped\CodeSnniped\bin\Debug\CodeSnniped.pdb
+C:\Documents and Settings\02272453856\Meus documentos\Visual Studio 2005\Projects\CodeSnniped\CodeSnniped\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\02272453856\Meus documentos\Visual Studio 2005\Projects\CodeSnniped\CodeSnniped\obj\Debug\CodeSnniped.Properties.Resources.resources
+C:\Documents and Settings\02272453856\Meus documentos\Visual Studio 2005\Projects\CodeSnniped\CodeSnniped\obj\Debug\CodeSnniped.csproj.GenerateResource.Cache
+C:\Documents and Settings\02272453856\Meus documentos\Visual Studio 2005\Projects\CodeSnniped\CodeSnniped\obj\Debug\CodeSnniped.exe
+C:\Documents and Settings\02272453856\Meus documentos\Visual Studio 2005\Projects\CodeSnniped\CodeSnniped\obj\Debug\CodeSnniped.pdb
+C:\Documents and Settings\02272453856\Meus documentos\Visual Studio 2005\Projects\CodeSnniped\CodeSnniped\bin\Debug\nunit.framework.dll
